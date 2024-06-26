@@ -1,0 +1,6 @@
+imageio
+facenet-pytorch
+imageio[ffmpeg]
+matplotlib
+opencv-python
+scikit-learn
